@@ -29,4 +29,8 @@ button.addEventListener('click', function (){
 
 });
 
+let tempo = document.getElementById('data');
+let data = new Date();
+tempo.textContent = data.getFullYear();
+
 

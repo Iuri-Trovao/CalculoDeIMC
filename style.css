@@ -52,3 +52,8 @@ input[type="button"]:focus:hover{
     background-color: rgb(45, 212, 45);
     color: aliceblue;
 }
+.footer{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
